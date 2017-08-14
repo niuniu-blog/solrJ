@@ -7,7 +7,7 @@ public class Test {
         long l2 = System.currentTimeMillis()-l;
         System.out.println("耗时："+l2);
         System.out.println("1");
-
+        System.out.println("3");
         System.out.println("2");
     }
 
