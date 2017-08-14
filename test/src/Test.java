@@ -8,6 +8,7 @@ public class Test {
         System.out.println("耗时："+l2);
         System.out.println("1");
 
+        System.out.println("2");
     }
 
     private static int getCount(Long i) {
