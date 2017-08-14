@@ -6,6 +6,7 @@ public class Test {
         System.out.println(count(35L));//1132436852  122280
         long l2 = System.currentTimeMillis()-l;
         System.out.println("耗时："+l2);
+        System.out.println("1");
 
     }
 
